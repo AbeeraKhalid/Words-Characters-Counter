@@ -10,10 +10,12 @@ h1{
     margin: 0px;
 }
 textarea{
-    width: 99.4%;
+    width: 99%;
     border-color: rgb(35, 95, 122);;
     font-size: 20px;
-    
+    display:flex;
+    justify-content: center;
+    border-radius: 8px;
 }
 p{
     text-align: center;
